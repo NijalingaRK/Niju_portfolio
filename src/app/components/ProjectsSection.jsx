@@ -47,7 +47,7 @@ const projectsData = [
     image: "/images/projects/portfolio.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/NijalingaRK/Niju_portfolio",
-    previewUrl: "/",
+    previewUrl: "https://nijuu-seven.vercel.app",
   },
   
 
