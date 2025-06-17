@@ -34,7 +34,7 @@ const TAB_DATA = [
     id: "achievements",
     content: (
       <ul className="list-disc pl-2">
-        <li>Patent filed for "AI-Powered infrared imaging system"</li>
+        <li>Patent filed for &apos;AI-Powered infrared imaging system&apos;</li>
         <li>Flipkart GRiD 6.0 participant (E-commerce & Tech Quiz)</li>
         <li>Teachnook Excellence Certificate in Full-Stack Development</li>
         <li>Hackathon participant: GenAI Hackfest 2025, Manthan 2025</li>
