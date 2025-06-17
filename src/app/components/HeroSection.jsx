@@ -33,7 +33,7 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Electronics & Computer Engineering student building innovative web solutions 
+            Electronics & Communication Engineering student building innovative web solutions 
             with AI integration. Passionate about full-stack development, 
             hardware-software integration, and creating patent-worthy technology.
           </p>
