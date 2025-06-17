@@ -61,10 +61,10 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I'm an Electronics and Computer Engineering student with a passion for full-stack development and AI integration. With hands-on experience in the MERN stack and hardware-software integration projects like InfraEye, I bridge the gap between physical computing and web technologies. My work spans from building real-time chat applications to developing AI-powered career guidance platforms with Gemini AI integration.
+            I&apos;m an Electronics and Computer Engineering student with a passion for full-stack development and AI integration. With hands-on experience in the MERN stack and hardware-software integration projects like InfraEye, I bridge the gap between physical computing and web technologies. My work spans from building real-time chat applications to developing AI-powered career guidance platforms with Gemini AI integration.
           </p>
           <p className="text-base lg:text-lg mt-4">
-            As an intern at Weboin, I honed my skills in responsive web design and performance optimization. I thrive in collaborative environments, evidenced by my role as Technical Club Event Coordinator. My patent-pending infrared imaging system demonstrates my innovative approach to solving real-world problems through technology. I'm constantly expanding my skills through hackathons and competitive programming events.
+            As an intern at Weboin, I honed my skills in responsive web design and performance optimization. I thrive in collaborative environments, evidenced by my role as Technical Club Event Coordinator. My patent-pending infrared imaging system demonstrates my innovative approach to solving real-world problems through technology. I&apos;m constantly expanding my skills through hackathons and competitive programming events.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
